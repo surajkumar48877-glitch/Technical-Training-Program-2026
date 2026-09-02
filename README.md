@@ -57,8 +57,8 @@ This repository will be updated daily with:
 
 ## 🎓 Institution
 
-**Sandip University, Nashik**
-School of Computer Sciences & Engineering
+**Sandip University, Nashik**  
+School of Computer Sciences & Engineering  
 Department of Computer Science & Application
 
 ## 👨‍💻 Author
