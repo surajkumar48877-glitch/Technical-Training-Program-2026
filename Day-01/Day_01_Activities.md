@@ -24,4 +24,4 @@ All the Python programs practiced during Day 01 are available in the **Day-01_Py
 
 ## 📚 Notes
 
-The concepts covered during the session are available in the **Day-01_notes.md** file.
+The concepts covered during the session are available in the **Day-01_Notes.md** file.
