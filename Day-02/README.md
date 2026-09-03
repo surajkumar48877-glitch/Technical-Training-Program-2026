@@ -1,4 +1,4 @@
-# Day-02 - Technical Training Program 2026
+# Day-02 – Technical Training Program 2026
 
 ## 📚 Topics Covered
 
