@@ -1,4 +1,3 @@
-```python
 # ==========================================
 # DAY 02 - PYTHON PRACTICE
 # Technical Training Program
@@ -179,4 +178,3 @@ def fibonacci(n):
 
 n = int(input("Enter n: "))
 print("Fibonacci:", fibonacci(n))
-```
