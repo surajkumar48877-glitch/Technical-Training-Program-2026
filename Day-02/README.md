@@ -1,4 +1,4 @@
-# Day-02 | Technical Training Program 2026
+# Day-02 - Technical Training Program 2026
 
 ## 📚 Topics Covered
 
@@ -67,14 +67,3 @@ Through Day 2, I improved my understanding of:
 - Recursion and base conditions
 - Solving basic array and problem-solving questions
 - Difference between recursion and iteration
-
-## 👨‍💻 Author
-
-**Suraj Kumar Mishra**  
-BCA | Aspiring Data Analyst
-
-## 🎓 Institution
-
-**Sandip University, Nashik**  
-School of Computer Sciences & Engineering  
-Department of Computer Science & Application
