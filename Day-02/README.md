@@ -40,30 +40,21 @@ Day 2 of the Technical Training Program focused on **Time Complexity, Algorithms
 - Product of array elements
 - Fibonacci series
 
-## 💻 Files
+## 💻 Practice
 
-| File | Description |
-|------|-------------|
-| `Day-02_Notes.md` | Notes and important concepts covered on Day 2 |
-| `Day-02_Python_Practice.py` | Python programs and practice problems |
-| `Day-02_Activities.md` | Activities and practical work completed on Day 2 |
+Today I practiced Python programs related to:
 
-## 🛠️ Technologies Used
+* List indexing and slicing
+* Counting even and odd numbers
+* Moving zeros to the end of a list
+* Finding maximum and minimum elements
+* Finding the second largest element
+* Factorial using recursion
+* Power using recursion
+* Product of array using recursion
+* Generating Fibonacci series
+* Finding Fibonacci number using iteration
 
-- Python
-- Data Structures
-- Algorithms
-- Time Complexity
-- Recursion
+## 📝 Key Learning
 
-## 🎯 Learning Outcome
-
-Through Day 2, I improved my understanding of:
-
-- How to analyze the time complexity of a program
-- Different cases of algorithm performance
-- Common Big-O complexities
-- Python lists and array operations
-- Recursion and base conditions
-- Solving basic array and problem-solving questions
-- Difference between recursion and iteration
+Day 02 focused on understanding time complexity, basic algorithms, recursion, and Python list/array problem-solving concepts.
