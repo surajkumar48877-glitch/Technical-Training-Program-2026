@@ -1,4 +1,4 @@
-# Day 01 – Technical Training
+# Day-01 – Technical Training
 
 ## 📚 Topics Covered
 
