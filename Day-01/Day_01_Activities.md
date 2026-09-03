@@ -20,8 +20,8 @@
 
 ## 💻 Practical Work
 
-All the Python programs practiced during Day 01 are available in the **Codes** folder.
+All the Python programs practiced during Day 01 are available in the **Day-01_Python_Practice.py** file.
 
 ## 📚 Notes
 
-The concepts covered during the session are available in the **Notes** folder.
+The concepts covered during the session are available in the **Day-01_notes.md** file.
