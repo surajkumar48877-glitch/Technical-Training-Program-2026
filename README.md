@@ -1,4 +1,4 @@
-# Technical Training Program 2026
+# Technical Skills Training Program 2026
 
 ## 📚 About
 
