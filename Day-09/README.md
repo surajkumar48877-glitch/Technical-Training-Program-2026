@@ -1,34 +1,65 @@
-# Day 09 – Activities
+# Day-09 – Technical Training Program 2026
 
-## 📝 Activities Completed
+## 📚 Topics Covered
 
-1. Practiced List Comprehension.
-2. Practiced creating squares using List Comprehension.
-3. Practiced generating powers of 2 using List Comprehension.
-4. Practiced List Comprehension with conditions.
-5. Practiced Dictionary Comprehension.
-6. Created a dictionary of squares.
-7. Created a dictionary of double values.
-8. Practiced taking multiple integer values in a single line.
-9. Practiced taking multiple float values in a single line.
-10. Learned `strip()`, `lstrip()` and `rstrip()`.
-11. Practiced removing spaces from strings.
-12. Practiced replacing strings using `replace()`.
-13. Practiced replacing all occurrences of a character.
-14. Practiced finding unique vowels from a word.
-15. Learned about Adjacency Matrix.
-16. Learned when to use Adjacency Matrix and Adjacency List.
-17. Created a static Adjacency Matrix using Python.
-18. Practiced adding edges to an Adjacency Matrix.
-19. Created a dynamic Adjacency Matrix.
-20. Took vertices and edges as user input.
-21. Practiced adding edges dynamically.
-22. Displayed the Adjacency Matrix.
+Day 9 of the Technical Training Program focused on **Python Comprehensions, String Methods, Multiple Inputs, and Adjacency Matrix**.
 
-## 💻 Practical Work
+### 🔹 List Comprehension
 
-All Day 09 Python practice programs are available in the `Day-09_Python_Practice.py` file.
+* Creating lists using comprehension
+* Square of numbers
+* Power of 2
+* List comprehension with condition
 
-## 📚 Key Learning
+### 🔹 Dictionary Comprehension
 
-Day 09 focused on **Comprehensions, String Methods, Multiple Inputs, Unique Vowels, and Adjacency Matrix implementation using Python**.
+* Creating dictionaries using comprehension
+* Square values
+* Double values
+
+### 🔹 Multiple Inputs
+
+* Taking multiple integer values
+* Taking multiple float values
+* Using `split()`
+
+### 🔹 String Methods
+
+* `strip()`
+* `lstrip()`
+* `rstrip()`
+* `replace()`
+
+### 🔹 Python Problem Solving
+
+* City name checking
+* String replacement
+* Finding unique vowels from a word
+
+### 🔹 Adjacency Matrix
+
+* Adjacency Matrix
+* Static Adjacency Matrix
+* Dynamic Adjacency Matrix
+* Adding edges
+* Displaying the matrix
+* Taking vertices and edges from user input
+
+## 💻 Practice
+
+Today I practiced Python programs related to:
+
+* List Comprehension
+* Dictionary Comprehension
+* Multiple values input
+* Removing spaces from strings
+* Replacing strings
+* Finding unique vowels
+* Creating Adjacency Matrix
+* Adding edges
+* Dynamic graph input
+* Displaying Adjacency Matrix
+
+## 📝 Key Learning
+
+Day 09 helped me understand **Python Comprehensions, String Operations, Multiple Inputs, and Graph representation using Adjacency Matrix**.
